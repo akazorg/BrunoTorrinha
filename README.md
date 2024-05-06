@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 My name is [Bruno Torrinha](https://torrinha.com)</h1>
+<h1 align="center">Hi there 👋 My name is <a href="https://torrinha.com">Bruno Torrinha</a></h1>
 <h3 align="center">A passionate Software Engineer based in Portugal 🇵🇹</h3>
 
 - I work as a Senior Fullstack Developer
